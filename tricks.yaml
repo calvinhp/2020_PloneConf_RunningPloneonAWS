@@ -1,0 +1,5 @@
+tricks:
+- watchdog.tricks.ShellCommandTrick:
+    patterns: ["*.md",]
+    shell_command: make
+    ignore_directories: true
