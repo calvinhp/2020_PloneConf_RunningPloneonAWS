@@ -25,3 +25,8 @@ Set up your [credentials](https://aws.github.io/copilot-cli/docs/credentials/) a
       --deploy
 
 The output of that command will give you a URL to go and enjoy your Cloud Plone.
+
+Don't forget to clean up your demo, AWS will keep charging you for running the Fargate container and the ALB.
+
+    $ copilot app delete
+

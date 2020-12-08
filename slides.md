@@ -18,6 +18,8 @@ keywords:
 #### Calvin Hendryx-Parker, CTO
 #### Six Feet Up
 
+<https://github.com/calvinhp/2020_PloneConf_RunningPloneonAWS>
+
 # Six Feet Up is Hiring!! {data-background-image="images/sfu.jpg"}
 
 # Beautiful Unique Snowflakes are not reproducible. {.semi-filtered data-background-image="https://c2.staticflickr.com/4/3802/12006571534_7a81e7656e_o.jpg"}
@@ -152,3 +154,4 @@ Or you could flesh out the Copilot CLI bits to enable more junior devs
 
 [`@calvinhp`](https://twitter.com/calvinhp)
 
+<https://github.com/calvinhp/2020_PloneConf_RunningPloneonAWS>
