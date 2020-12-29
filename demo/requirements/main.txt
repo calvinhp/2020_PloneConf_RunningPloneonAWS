@@ -1,1 +1,2 @@
 collective.easyform
+plone.app.mosaic
